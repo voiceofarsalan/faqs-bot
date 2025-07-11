@@ -46,7 +46,7 @@ Ensure you have Python 3.7+ and the following tools installed:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/faqs-bot.git
+git clone https://github.com/voiceofarsalan/faqs-bot.git
 cd faqs-bot
 ```
 
